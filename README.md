@@ -3,7 +3,7 @@
 I work in the Malwarebytes Architecture team and I'm interested in all our engineering projects.
 
 📫 How to reach me ...
-You can e-mail me at: dforde@malwarebytes.com and of course, you can alwarey reach me on slack. I work in GMT time-zone. 
+You can e-mail me at: dforde@malwarebytes.com and of course, you can always reach me on slack. I work in GMT time-zone. 
 
 <!---
 - 👀 I’m interested in ...
